@@ -26,12 +26,12 @@ This whole control strategy is tested through simulations showing the effectiven
 ![](Images/combined controller.PNG)
 
 
-- The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 50km/h ], dry, smooth road: 
+- The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 50km/h, dry, smooth road: 
 
 
 ![](Images/50km.PNG)
 
-- The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 90km/h ], dry, smooth road:
+- The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 90km/h, dry, smooth road:
 
 
 ![](Images/90km.PNG)
