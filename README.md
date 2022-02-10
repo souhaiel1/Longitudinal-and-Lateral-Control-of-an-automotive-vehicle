@@ -9,9 +9,9 @@ tracking problem, a longitudinal control technique is also proposed. Finally, a 
 and lateral control strategy helps to improve the combined control performance. 
 ### This whole control strategy is tested through simulations showing the effectiveness of the present approach for a path tracking task using the Pure Pursuit algorithm.
 
-```diff
-- The Included PDF contains the full details of the dynamic model used, the design of controllers and their assesment and performance analysis for different situations/conditions.
-```
+
+ :red_circle: ### The Included PDF contains the full details of the dynamic model used, the design of controllers and their assesment and performance analysis for different situations/conditions. :red_circle:
+
 
 # This project includes: 
 ### Longitudinal Control : PI controller 
