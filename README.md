@@ -8,3 +8,8 @@ predictive control-based automated steering technique. To deal with the longitud
 tracking problem, a longitudinal control technique is also proposed. Finally, a unified longitudinal
 and lateral control strategy helps to improve the combined control performance. This whole control
 strategy is tested through simulations showing the effectiveness of the present approach.
+
+# This project includes: 
+## a Longitudinal Control : PI controller 
+## a Lateral Control: MPC controller 
+## Complete non-linear dynamics control : PI + MPC
