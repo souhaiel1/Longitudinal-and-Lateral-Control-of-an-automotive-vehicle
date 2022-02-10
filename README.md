@@ -16,15 +16,24 @@ and lateral control strategy helps to improve the combined control performance.
 
 # Snippets 
 - The complete control scheme :
+
+
 ![](Images/combined controller.PNG)
 
+
 - The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 50km/h ], dry, smooth road: 
+
+
 ![](Images/50km.PNG)
 
 - The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 90km/h ], dry, smooth road:
+
+
 ![](Images/90km.PNG)
 
 - Solving the problem by using adaptive ( variable/piecewise ) reference velocity:
+
+
 ![](Images/traj_and_vel_tracking.PNG)
 
 # The Included PDF contains the full details of the dynamic model used, the design of controllers and their assesment and performance analysis for different situations/conditions.
