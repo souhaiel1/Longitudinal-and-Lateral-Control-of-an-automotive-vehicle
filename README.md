@@ -20,9 +20,9 @@ This whole control strategy is tested through simulations showing the effectiven
 ### Complete non-linear dynamics control : PI + MPC
  
  ## Instructions
-- run Init to initialize the simulink model 
+- run Init.m to initialize the simulink model 
 - run the simulink simulation 
-- run init again to display the simulated trajectory with respect to the reference trajectory and re-initialize the simulink models
+- run Init.m again to display the simulated trajectory with respect to the reference trajectory and re-initialize the simulink models
 
 ## Included Simulink models: 
 - Full_control_with_fixed_reference_velocity : used to test the controller for a constant reference linear velocity
