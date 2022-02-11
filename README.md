@@ -38,7 +38,7 @@ This whole control strategy is tested through simulations showing the effectiven
 - The complete control scheme :
 
 
-![](Images/combined controller.PNG)
+![](Images/combined_controller.PNG)
 
 
 - The performance of the controller evaluated for a path tracking task using the PurevPursuit algorithm for a constant reference velocity of 50km/h, dry, smooth road: 
