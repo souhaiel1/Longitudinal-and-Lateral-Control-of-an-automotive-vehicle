@@ -1,4 +1,4 @@
-# Longitudinal-and-Lateral-Control-of-a-vehicle
+# Longitudinal-and-Lateral-Control-of-an-automotive-vehicle
 
 This Project deals with the longitudinal and lateral control of an automotive vehicle within the
 framework of fully automated guidance. The automotive vehicle is a complicated system with
