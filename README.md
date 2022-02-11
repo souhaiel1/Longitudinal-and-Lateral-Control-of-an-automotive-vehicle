@@ -18,6 +18,20 @@ This whole control strategy is tested through simulations showing the effectiven
 ### Longitudinal Control : PI controller 
 ### Lateral Control: MPC controller 
 ### Complete non-linear dynamics control : PI + MPC
+ 
+ # Instructions
+- run Init to initialize the simulink model 
+- run the simulink simulation 
+- run init again to display the simulated trajectory with respect to the reference trajectory and re-initialize the simulink models
+- 
+# Included models: 
+- Full_control_with_fixed_reference_velocity : used to test the controller for a constant reference linear velocity
+- Full_control_with_variable_reference_velocity : using a piecewise reference velocity depending on the shape of the track
+
+
+
+
+
 
 # Snippets 
 - The complete control scheme :
